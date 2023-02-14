@@ -1,2 +1,2 @@
 # pymoney
-Three assignments in NTHU python course.
+Three-staged assignments in NTHU python course.
