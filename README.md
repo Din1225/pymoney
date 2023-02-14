@@ -1,2 +1,2 @@
 # pymoney
-Project in NTHU python course.
+Three assignments in NTHU python course.
